@@ -14,19 +14,19 @@ This is a simple Hangman game implemented in Python. The player has to guess the
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/hangman-game.git
+    git clone https://github.com/SIVAPRIYA-3065/codealpha_tasks.git
     ```
 
 2. **Navigate to the project directory:**
     ```sh
-    cd hangman-game
+    cd Hangman Game
     ```
 
 ## Usage
 
 To run the game, execute the following command:
 ```sh
-python hangman.py
+python main.py
 ```
 
 ## License
