@@ -19,8 +19,8 @@ This is a simple ChatBot application built using Kivy and KivyMD. The applicatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatbot-app.git
-   cd chatbot-app
+   git clone https://github.com/SIVAPRIYA-3065/codealpha_tasks.git
+   cd Basic Chatbot
    ```
 
 2. Create a virtual environment and activate it:
@@ -37,7 +37,7 @@ This is a simple ChatBot application built using Kivy and KivyMD. The applicatio
 ## Running the Application
 Create the SQLite database and user table by running the script
 ```bash
-python chatbot_app.py
+python main.py
 ```
 
 ## Application Structure
@@ -48,7 +48,7 @@ python chatbot_app.py
 ## Usage
 - Launch the application:
   ```bash
-  python chatbot_app.py
+  python main.py
   ```
 - Register a new user by providing a username and password.
 - Login with the registered username and password.
